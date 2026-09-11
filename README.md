@@ -1,4 +1,4 @@
-# 📊 Vehicle Wash Dashboard Project
+# 📊 Vehicle Wash Dashboard Project - Power Bi
 
 🛠 **Tool Used:**  
 Power BI
